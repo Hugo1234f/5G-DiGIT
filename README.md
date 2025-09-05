@@ -10,4 +10,4 @@
 
 ## Tasks
 
-- [] Exploring the Digital Tools Behind 5G Smart Services
+- [ ] Exploring the Digital Tools Behind 5G Smart Services
