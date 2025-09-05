@@ -27,6 +27,8 @@
 |**Expected Outcomes**| Infrographic and short presentation that map tools to service functionalities|
 |**Prerequisites**| Familiarity with digital data workflows and an interest in smart city services|
 
+The selected smart city services are: **Smart Airport Noice Monitoring** and **Urban Air Pollution Monitoring**
+
 ## Task 2 
 ## Task 3 
 ## Task 4 
