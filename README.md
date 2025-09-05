@@ -17,7 +17,15 @@
 - [ ] [5. Designing a 5G Network Slicing Strategy for Urban Applications](#task-5)
 - [ ] [6. Using AI for Anomaly Detection and Response in 5G Networks](#task-6)
 
-## Task 1 
+# Task 1 
+
+| Task 1 | Exploring the Digital Tools Behind 5G Smart Services |
+|-|-|
+|**Learning Hours (expected)**| 5 hours (1 lecture + 2 practical + 2 independent)|
+|**Learning Outcomes**| **-** Understand the role of digital tools and data pipelines in 5G-enabled services;<br> **-** Acquire familiarity with data visualization platforms and monitoring tools.|
+|**Description**| The task includes the following steps:<br>- [ ] Identify at least two smart city services;<br>**2.** Identify the data to collect and how they should be processed|
+
+
 ## Task 2 
 ## Task 3 
 ## Task 4 
