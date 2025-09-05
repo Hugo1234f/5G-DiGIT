@@ -23,8 +23,9 @@
 |-|-|
 |**Learning Hours (expected)**| 5 hours (1 lecture + 2 practical + 2 independent)|
 |**Learning Outcomes**| **-** Understand the role of digital tools and data pipelines in 5G-enabled services;<br> **-** Acquire familiarity with data visualization platforms and monitoring tools.|
-|**Description**| The task includes the following steps:<br>- [ ] Identify at least two smart city services;<br>**2.** Identify the data to collect and how they should be processed|
-
+|**Description**| The task includes the following steps:<br>**1.** Identify at least two smart city services;<br>**2.** Identify the data to collect and how they should be processed;<br>**3.** Explore visualisation platforms used to monitor service performance;<br>**4.** Produce a conceptual map showing how digital tools support service monitoring and delivery.|
+|**Expected Outcomes**| Infrographic and short presentation that map tools to service functionalities|
+|**Prerequisites**| Familiarity with digital data workflows and an interest in smart city services|
 
 ## Task 2 
 ## Task 3 
