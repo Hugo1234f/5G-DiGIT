@@ -10,4 +10,16 @@
 
 ## Tasks
 
-- [ ] Exploring the Digital Tools Behind 5G Smart Services
+- [ ] [1. Exploring the Digital Tools Behind 5G Smart Services](#task-1)
+- [ ] [2. Designing Dashboards to Monitor 5G Network Performance](#task-2)
+- [ ] [3. Using Machine Learning to Detect Traffic Patterns in 5G Networks](#task-3)
+- [ ] [4. Analysing Cybersecurity Risks in 5G Smart City Scenarios](#task-4)
+- [ ] [5. Designing a 5G Network Slicing Strategy for Urban Applications](#task-5)
+- [ ] [6. Using AI for Anomaly Detection and Response in 5G Networks](#task-6)
+
+## Task 1 
+## Task 2 
+## Task 3 
+## Task 4 
+## Task 5 
+## Task 6 
