@@ -6,4 +6,5 @@
 
 Learning Outcomes:
 
-    * Acquire advanced digital skills for working with 5G networks:
+    - Acquire advanced digital skills for working with 5G networks:
+    - Test
