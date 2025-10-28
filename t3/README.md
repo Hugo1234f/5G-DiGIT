@@ -1,11 +1,28 @@
-1. Prerequisites
+# Prerequisites
+
+## Libraries
 
 To run these scripts you need to install the following libraries:
-    1. numpy (v1.x)            (pip install "numpy<2")
-    2. scikit-learn     (pip install scikit-learn)
-    3. matplotlib       (pip install matplotlib)
-    4. pandas           (pip install pandas)
+    
+1. numpy (v1.x)
+2. scikit-learn
+3. matplotlib
+4. pandas
 
-2. Running the experiment
+You can install them like this:
 
-Inside the ./data/ directory is the 
+```
+pip install "numpy<2"
+pip install scikit-learn
+pip install matplotlib
+pip install pandas
+```
+
+## Data
+
+The experiemnt evalues the **5G - Passive Measurements.csv** (2.2GB) dataset available [here](https://zenodo.org/records/8224890). This file should be placed into the `./data/` directory and renamed to `RawData.csv`.
+It is also possible to change the required filename in [**isolate_campaign.py**](https://github.com/Hugo1234f/5G-DiGIT/blob/main/t3/isolate_campain.py)
+
+# Running the experiment
+
+ 
