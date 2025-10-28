@@ -40,9 +40,9 @@ def norms(data):
     print(f"Fraction of abnormalities: {round(abnum/(abnum+nornum),4)}")
     
 
-print("Anomaly contribution 3649.44MHz:")
+print("\tAnomaly contribution 3649.44MHz:")
 norms(forest_f0)
 
-print("\nAnomaly contribution 3725.76MHz:")
+print("\n\tAnomaly contribution 3725.76MHz:")
 norms(forest_f1)
 
