@@ -6,7 +6,9 @@ other_campaigns = []
 
 headers = ""
 
-with open('data/RawData', 'r') as file:
+print("Reading data...")
+with open('data/RawData.csv', 'r') as file:
+    print("Scrubbing data...")
     headers = file.readline().split(',')
     headers[0] = "id"
     headers[-1] = headers[-1][:-2] + '\n'
@@ -97,7 +99,7 @@ with open('data/RawData', 'r') as file:
 
 
 
-print(f"Found {len(gaming_campaigns)} campaigns...")
+print(f"Writing...")
 
 with open('data/scrubbed_campaigns.csv', 'w') as file:
     file.write(','.join(headers))

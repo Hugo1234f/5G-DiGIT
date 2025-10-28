@@ -2,6 +2,9 @@ import pandas as pd
 from sklearn.ensemble import IsolationForest
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
+import warnings
+
+warnings.filterwarnings('ignore')
 
 print('Reading data...')
 data = pd.read_csv('./data/scaled.csv')

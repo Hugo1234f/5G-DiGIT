@@ -4,10 +4,10 @@ headers = []
 
 data = {}
 
+print("Reading data...")
 with open('./data/scrubbed_campaigns.csv', 'r') as file:
     headers = file.readline().split(',')
     headers[-1] = headers[-1][:-1]
-    print(headers)
 
     for h in headers:
         data[h] = []
@@ -22,9 +22,8 @@ with open('./data/scrubbed_campaigns.csv', 'r') as file:
         for i in range(len(headers)):
             data[headers[i]].append(float(parts[i]))
 
-    print(len(data['SSS-RSRP']))
 
-
+print("Mapping frequencies...")
 df = []
 for col in data:
     if col == "Frequency":
@@ -36,11 +35,12 @@ for col in data:
     else:
         df.append(data[col])
 
+print('Scaling...')
 scaler = StandardScaler()
 scaled = scaler.fit_transform(df)
 scaled = scaled.T
 
-print('writing...')
+print('Writing...')
 
 training_data = []
 
